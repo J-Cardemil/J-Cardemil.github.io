@@ -1,9 +1,6 @@
 # Jose Miguel Cardemil
 
 ## Education
-* Dr. Eng. in Mechanical Engineering
-* M. Sc. in Mechanical Engineering
-* B. Sc. in Industrial Engineering
 
 ## Links
 * [ResearchID](https://publons.com/researcher/785786/jose-m-cardemil/)
