@@ -6,7 +6,7 @@
 * B. Sc. in Industrial Engineering
 
 ## Links
-* [ResearchID](https://publons.com/researcher/785786/jose-m-cardemil/))
+* [ResearchID](https://publons.com/researcher/785786/jose-m-cardemil/)
 
 You can use the [editor on GitHub](https://github.com/J-Cardemil/J-Cardemil.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
