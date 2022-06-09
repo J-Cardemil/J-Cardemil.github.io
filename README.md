@@ -1,2 +1,2 @@
-# J-Cardemil.github.io
+# JM Cardemil
 Academic CV
