@@ -5,3 +5,15 @@ description: [Academic CV
 * M. Sc. in Mechanical Engineering
 * B. Sc. in Industrial Engineering
 ]
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/J-Cardemil"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/josé-m-cardemil-11991642/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/J_Cardemil"
