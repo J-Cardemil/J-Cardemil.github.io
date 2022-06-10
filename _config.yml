@@ -1,12 +1,12 @@
 theme: jekyll-theme-minimal
 title: [JM Cardemil]
-description: [Academic CV
-* Dr. Eng. in Mechanical Engineering
-* M. Sc. in Mechanical Engineering
-* B. Sc. in Industrial Engineering
+description: [
+Dr. Eng. in Mechanical Engineering\\
+M. Sc. in Mechanical Engineering\\
+B. Sc. in Industrial Engineering
 ]
 
-footer:
+footer:[
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -17,3 +17,4 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/J_Cardemil"
+]
